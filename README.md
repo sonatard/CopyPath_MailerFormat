@@ -22,7 +22,7 @@ C:\Windows\System32\cmd.exe
 cmd.exe
 ```
 
-## filder
+## folder
 C:\Windows\System32\
 ```
 <C:\Windows\System32>
@@ -44,5 +44,5 @@ file.txt
 
 
 # Thanks
-[Outolookに優しいファイルのパスコピー - uhirou も読んでる htakayuki's diary](http://htakayuki.hatenablog.com/entry/2013/04/11/Outolook%E3%81%AB%E5%84%AA%E3%81%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%83%91%E3%82%B9%E3%82%B3%E3%83%94%E3%83%BC)  
+[Outolookに優しいファイルのパスコピー - uhirou も読んでる htakayuki's diary](http://htakayuki.hatenablog.com/entry/2013/04/11/Outolook%E3%81%AB%E5%84%AA%E3%81%97%E3%81%84%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E3%83%91%E3%82%B9%E3%82%B3%E3%83%94%E3%83%BC)
 [僕にも優しいファイルのパスコピー (for Windows) - Kenichi Maehashi's Blog](http://blog.kenichimaehashi.com/?article=13675687950)
